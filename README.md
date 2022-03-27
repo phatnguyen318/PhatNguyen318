@@ -1,16 +1,44 @@
-Xin chào (Hi there) 👋, I'm ✨Nguyen Trien Phat (Phat Nguyen)✨ !
+### Xin chào (Hi there) 👋, I'm ✨ Phat Nguyen Trien✨ [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h3>I was working as an Electrical Engineer, now i want to switch my career to be a Data Engineer , nice to meet you guys here 😎 </h3>
 
-I am working as an Electrical Engineer for the last four year and just change my career to be a fresher Data Engineer, bring ideas to life!!, nice to meet you guys here 😎
+- 🔭 I’m stop working at Aurecon Vietnam (famous for building MEP Landmark 81) (VN)
+- 🔭 At the moment, I am looking for opportunities to work in a new career as a Data Engineer and I am so excited for the new role.
+- 🌱 I’m currently learning Information Technology at HCMUS (University of Science HCMC)and also learning on Microsoft Azure Services.
+- 👯 I’m looking for a mentor that could guide me on the right track.
+- 🤔 I’m a practical person who prefers work on training jobs rather than watching tutorials all the time. 
+(of course I definetely watching tutorials on Youtube and also reading book/blogs for learning new things)
+- 💬 Ask me about - Anything related to lifestyle, games, tech gadgets (I love that) or even tips for personal finance ( but my personal life , buddy !!)
+- ⚡ Fun fact: I am a gym lovers ( love go to the gyms five times/week) and a coffee lovers (they smells so damn good !!)
 
-<!--
-**phatnguyen318/PhatNguyen318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b>so if you want to say hi, <b> I'll be happy to meet you!</b> 😊</em>
 
-Here are some ideas to get you started:
+<h3 align="left"><b>⭐️ My expertise ⭐️ </b></h3>
 
-- 🔭 I’m currently working on Aurecon Vietnam (one of the top company in Vietnam about MEP Designing)
-- 🌱 I’m currently learning Information Technology in VNUHCM-University of Science (HCMUS)
-- 🤔 I’m looking for help on advising all things about Data. I'm really eager to learn that. And with learning in the Data Engineer roadmap https://github.com/datastacktv/data-engineer-roadmap
+<p align="left"> 
+🔶Programing Language: 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.sql.org/" target="_blank"> <img src="https://www.svgrepo.com/show/13344/sql-file-format.svg" alt="sql" width="40" height="40"/> </a>
+</a>
 
-- 💬 Ask me about anything including personal hobbies. I'm a lover of sport (especially basketball (NBA), Football (Premier League for the most and Champion Leauge also my favorite), UFC and NFL as well.
+🔶Technology: 
+<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.svgrepo.com/show/303372/azure-1-logo.svg" alt="azure" width="40" height="40"/> </a> 
 
+🔶RDBMS: 
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img src="https://www.svgrepo.com/show/306420/microsoftsqlserver.svg" alt="microsoftsqlserver" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+
+🔶Visualization: 
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://www.svgrepo.com/show/306593/powerbi.svg" alt="powerbi" width="40" height="40"/> </a> 
+
+🔶I'm trying to learn these: 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
+
+ </p>
+
+<h3 align="left">Reach me at:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/phat-nguyen-31081994/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/knguyenanh8194/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nguyentrienphat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/idofavisikta_19" height="30" width="40" /></a>
+<a href="https://docs.microsoft.com/en-ca/users/PHATNGUYNTRIN-2118" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/datacamp.svg" alt="https://www.datacamp.com/profile/knguyenanh8194" height="30" width="40" /></a>
