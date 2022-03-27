@@ -9,8 +9,8 @@
 - 👯 I’m looking for a mentor that could guide me on the right track.
 - 🤔 I’m a practical person who prefers work on training jobs rather than watching tutorials all the time. 
 (of course I definetely watching tutorials on Youtube and also reading book/blogs for learning new things)
-- 💬 Ask me about - Anything related to lifestyle, games, tech gadgets (I love that) or even tips for personal finance ( but my personal life , buddy !!)
-- ⚡ Fun fact: I am a gym lovers ( love go to the gyms five times/week) and a coffee lovers (they smells so damn good !!)
+- 💬 Ask me about - Anything related to lifestyle, games, tech gadgets (I love that) or even tips for personal finance
+- ⚡ Fun fact: I am a gym love (love go to the gym five times/week) and a coffee lover (they smells so damn good !!)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b>so if you want to say hi, <b> I'll be happy to meet you!</b> 😊</em>
 
@@ -19,7 +19,6 @@
 <p align="left"> 
 🔶Programing Language: 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.sql.org/" target="_blank"> <img src="https://www.svgrepo.com/show/13344/sql-file-format.svg" alt="sql" width="40" height="40"/> </a>
-</a>
 
 🔶Technology: 
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.svgrepo.com/show/303372/azure-1-logo.svg" alt="azure" width="40" height="40"/> </a> 
@@ -33,7 +32,8 @@
 
 🔶I'm trying to learn these: 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+ <a href="https://kubernetes.io" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReve7N5JF9zcfHyyd2UT0swm_UgE3L27Fogg&usqp=CAU" alt="git" width="60" height="40"/> </a>  
 
  </p>
 
