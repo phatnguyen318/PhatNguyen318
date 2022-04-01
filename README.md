@@ -33,7 +33,8 @@
 
 🔶I'm trying to learn these: 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
- <a href="https://kubernetes.io" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReve7N5JF9zcfHyyd2UT0swm_UgE3L27Fogg&usqp=CAU" alt="git" width="60" height="40"/> </a>  
+ <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://seeklogo.com/images/H/hadoop-logo-608148F581-seeklogo.com.png" alt="apache" width="40" height="40"/> </a> 
+  <a href="https://kubernetes.io" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReve7N5JF9zcfHyyd2UT0swm_UgE3L27Fogg&usqp=CAU" alt="git" width="60" height="40"/> </a>  
 
  </p>
 
