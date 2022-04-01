@@ -22,6 +22,7 @@
 
 🔶Technology: 
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.svgrepo.com/show/303372/azure-1-logo.svg" alt="azure" width="40" height="40"/> </a> 
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 🔶RDBMS: 
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img src="https://www.svgrepo.com/show/306420/microsoftsqlserver.svg" alt="microsoftsqlserver" width="40" height="40"/> </a> 
@@ -32,7 +33,6 @@
 
 🔶I'm trying to learn these: 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://kubernetes.io" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReve7N5JF9zcfHyyd2UT0swm_UgE3L27Fogg&usqp=CAU" alt="git" width="60" height="40"/> </a>  
 
  </p>
