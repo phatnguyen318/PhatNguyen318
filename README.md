@@ -26,7 +26,7 @@
 
 🔶RDBMS: 
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img src="https://www.svgrepo.com/show/306420/microsoftsqlserver.svg" alt="microsoftsqlserver" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+ <a href="[https://www.mysql.com/](https://www.postgresql.org)" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="mysql" width="40" height="40"/> </a> 
 
 🔶Visualization: 
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://www.svgrepo.com/show/306593/powerbi.svg" alt="powerbi" width="40" height="40"/> </a> 
