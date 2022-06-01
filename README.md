@@ -1,9 +1,8 @@
 ### Xin chào (Hi there) 👋, I'm ✨ Phat Nguyen Trien✨ [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h3>I was working as an Electrical Engineer, now i want to switch my career to be a Data Engineer , nice to meet you guys here 😎 </h3>
+<h3>I used to work as an Electrical Engineer, now i want to switch my career to be a Data Engineer , nice to meet you guys here 😎 </h3>
 
-- 🔭 I’m stop working at Aurecon Vietnam (famous for building MEP Landmark 81) (VN)
 - 🔭 At the moment, I am looking for opportunities to work in a new career as a Data Engineer and I am so excited for the new role.
 - 🌱 I’m currently learning Information Technology at HCMUS (University of Science HCMC)and also learning on Microsoft Azure Services.
 - 👯 I’m looking for a mentor that could guide me on the right track.
@@ -26,7 +25,9 @@
 
 🔶RDBMS: 
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img src="https://www.svgrepo.com/show/306420/microsoftsqlserver.svg" alt="microsoftsqlserver" width="40" height="40"/> </a> 
- <a href="[https://www.mysql.com/](https://www.postgresql.org)" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="mysql" width="40" height="40"/> </a> 
+ <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2018/09/SQLite_Logo.png" alt="sqlite" width="65" height="40"/> </a> 
+ 
 
 🔶Visualization: 
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://www.svgrepo.com/show/306593/powerbi.svg" alt="powerbi" width="40" height="40"/> </a> 
