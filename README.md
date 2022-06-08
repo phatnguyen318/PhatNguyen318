@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3>I used to work as an Electrical Engineer, now i want to switch my career to be a Engineer related to Data , nice to meet you guys here 😎 </h3>
 
-- 🔭 At the moment, I am looking for opportunities to work in a new career as a Data Engineer and I am so excited for the new role.
+- 🔭 At the moment, I am looking for opportunities to work in a new career as a Engineer related to Data industry and I am so excited for the new role.
 - 🌱 I’m currently learning Information Technology at HCMUS (University of Science HCMC)and also learning on Microsoft Azure Services.
 - 👯 I’m looking for a mentor that could guide me on the right track.
 - 🤔 I’m a practical person who prefers work on training jobs rather than watching tutorials all the time. 
